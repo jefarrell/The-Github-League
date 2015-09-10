@@ -1,7 +1,7 @@
 # The-Github-League
 Celebrating Builders of Open-Source Software
 
-####Do you often wonder about the people putting in the long hours to build open-source software?
+#####Do you often wonder about the people putting in the long hours to build open-source software?
 Do you feel they should be celebrated?  
 Why isn't there memorabilia commemorating these heroes of code?  Well, now there is.  Welcome to The Github League.
 
