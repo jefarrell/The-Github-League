@@ -1,6 +1,9 @@
 # The-Github-League
 Celebrating Builders of Open-Source Software
 
+###  [ /// VIEW ONLINE \\\](https://jefarrell.github.io/The-Github-League/)
+
+
 #####Do you often wonder about the people putting in the long hours to build open-source software?
 #####Do you feel they should be celebrated?  
 #####Why isn't there memorabilia commemorating these heroes of code?  Well, now there is.  Welcome to The Github League.
@@ -12,4 +15,5 @@ Celebrating Builders of Open-Source Software
 >In this context, "most active" means most commits to public repositories.  
 >We were inspired by, and based our ranking system off of, work by GitHub user [paulmillr](https://github.com/paulmillr/) and his [git.io/top](http://git.io/top) page.
 
->A limited-edition run of cards was printed, to be sold at the [Internet Yami-Ichi Art Fair](http://yami-ichi.biz/nyc/) in New York City on September 12, 2015.
+
+A limited-edition run of cards was printed, to be sold at the [Internet Yami-Ichi Art Fair](http://yami-ichi.biz/nyc/) in New York City on September 12, 2015.
