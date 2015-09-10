@@ -1,7 +1,8 @@
 # The-Github-League
 Celebrating Builders of Open-Source Software
 
-###  [ /// VIEW ONLINE \\\](https://jefarrell.github.io/The-Github-League/)
+###  /// VIEW ONLINE \\\
+###  https://jefarrell.github.io/The-Github-League/
 
 
 #####Do you often wonder about the people putting in the long hours to build open-source software?
