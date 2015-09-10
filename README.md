@@ -2,8 +2,8 @@
 Celebrating Builders of Open-Source Software
 
 #####Do you often wonder about the people putting in the long hours to build open-source software?
-Do you feel they should be celebrated?  
-Why isn't there memorabilia commemorating these heroes of code?  Well, now there is.  Welcome to The Github League.
+#####Do you feel they should be celebrated?  
+#####Why isn't there memorabilia commemorating these heroes of code?  Well, now there is.  Welcome to The Github League.
 
 >The GitHub League seeks to explore the idea of celebrity, statistics and memorabilia in the context of software development, by creating trading cards based on the most prolific GitHub users. 
 >Available data including repositories and frequency of commits provides a base for data visualizations and card statistics.
